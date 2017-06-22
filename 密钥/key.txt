@@ -1,0 +1,2 @@
+ArnoldCount,LogisticX,LogisticU,LogisticN,ChenX,ChenY,ChenZ,ChenC,ChenH,ChenT,ChenN
+5,0.5,3.9,500,2,1,3,28,0.001,0,2000
